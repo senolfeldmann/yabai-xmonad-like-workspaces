@@ -1,0 +1,13 @@
+ctrl + cmd - backspace : open -a 'Activity Monitor'
+
+# yabai
+shift + alt - s : yabai -m display --focus recent
+shift + alt - 1 : ruby ~/yabaiscripts/switch_to_space.rb s1
+shift + alt - 2 : ruby ~/yabaiscripts/switch_to_space.rb s2
+shift + alt - 3 : ruby ~/yabaiscripts/switch_to_space.rb s3
+shift + alt - 4 : ruby ~/yabaiscripts/switch_to_space.rb s4
+shift + alt - 5 : ruby ~/yabaiscripts/switch_to_space.rb s5
+shift + alt - 6 : ruby ~/yabaiscripts/switch_to_space.rb s6
+shift + alt - 7 : ruby ~/yabaiscripts/switch_to_space.rb s7
+shift + alt - 8 : ruby ~/yabaiscripts/switch_to_space.rb s8
+shift + alt - 9 : ruby ~/yabaiscripts/switch_to_space.rb s9
